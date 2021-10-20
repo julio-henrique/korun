@@ -21,7 +21,7 @@ A documentação foi a mais interessante de se fazer porque as partes de CSS for
 - Fazer o CSS da parte da documentação
 
 ### Screenshot
-<img src="full-website.png" alt="screeshot of the full website" />
+<img src="korun.png" alt="screeshot of the full website" />
 
 
 ### Links
