@@ -78,4 +78,4 @@ Vou focar o meu aprendizado nessa parte e também nas animações, com uma linha
 Tirei a ideia do Traversy Media e fui fazendo, parando quando não sabia e mudando algumas coisas porque pensava que ele fazia um pouco melhor, mas o site no geral foi feito por mim mesmo.
 
 ## Author
-- Linkedin - [@Júlio-Henrique](https://www.linkedin.com/in/julio-h)
+- Linkedin - [Julio Henrique](https://www.linkedin.com/in/julio-henriqueCS/)
